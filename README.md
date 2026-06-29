@@ -15,7 +15,7 @@
 
 - 🔭 我正在系统学习 **嵌入式开发**，从 C 语言基础到 RTOS
 - 🌱 目前深入 **STM32** 和 **FreeRTOS** 实战
-- 📫 如何联系我： **[warren-kao@foxmail.com](mailto:warren-kao@foxmail.com)
+- 📫 如何联系我： **[warren-kao@foxmail.com](mailto:warren-kao@foxmail.com)**
 - ⚡ 座右铭：**“代码要像硬件一样可靠”**
 
 ---
@@ -67,7 +67,7 @@
 ### 📫 联系我
 
 <p align="center">
-  <a href="mailto:warren.kao@example.com">
+  <a href="mailto:warren-kao@foxmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/Warren_kao" target="_blank">
