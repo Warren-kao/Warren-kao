@@ -14,7 +14,7 @@
 ### 🧑‍💻 关于我
 
 - 🔭 我正在系统学习 **嵌入式开发**，从 C 语言基础到 RTOS
-- 🌱 目前深入 **STM32** 和 **FreeRTOS** 实战
+<!--- 🌱 目前深入 **STM32** 和 **FreeRTOS** 实战 -->
 - 📫 如何联系我： **[warren-kao@foxmail.com](mailto:warren-kao@foxmail.com)**
 
 ---
