@@ -68,7 +68,7 @@
 </details>
 
 <!-- 开发工具 -->
-<details>
+<details open>
   <summary><b>🧰 开发工具</b></summary>
   <br/>
   <p align="center">
