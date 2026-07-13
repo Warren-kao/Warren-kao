@@ -34,7 +34,6 @@
     <a href="mailto:warren-kao@foxmail.com">
       <strong>warren-kao@foxmail.com</strong>
     </a><br/>
-    ⚡ 座右铭：<em>"代码即电路，逻辑即电流"</em>
   </p>
 </div>
 
