@@ -77,6 +77,7 @@
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/嘉立创EDA-1A8CFF?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
   </p>
 </details>
 
@@ -130,14 +131,18 @@
       <p align="center">嵌入式学习全过程代码仓库<br/>涵盖 C51、STM32、FreeRTOS 实战笔记</p>
     </td>
     <td width="50%">
-      <h3 align="center">🔜 即将到来</h3>
+      <h3 align="center">🌤️ STM32-Weather_Clock</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/项目-开发中-yellow?style=for-the-badge&logo=github" alt="Coming Soon"/>
+        <a href="https://github.com/Warren-kao/STM32-Weather_Clock" target="_blank">
+          <img src="https://img.shields.io/badge/代码仓库-查看项目-blue?style=for-the-badge&logo=github" alt="Repo"/>
+        </a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/STM32%20HAL-外设驱动封装-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
+        <img src="https://img.shields.io/badge/标准库-外设驱动-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/嘉立创EDA-原理图+PCB-1A8CFF?style=flat-square" />
       </p>
-      <p align="center">常用外设通用驱动库<br/>GPIO、UART、I2C、SPI 一站式封装</p>
+      <p align="center">我的第一个完整嵌入式项目<br/>DHT11 + OLED + 模块化代码 + PCB 设计</p>
     </td>
   </tr>
 </table>
